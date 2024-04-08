@@ -1,0 +1,9 @@
+OK - Nạp database, xác định cột nào cần mã hóa
+OK - Mã hóa database với RSA
+OK - Sinh số nguyên tố
+OK - Áp dụng thuật toán CRT
+OK - Tạo database mới lưu giá trị mã hóa sau cùng
+
+OK - Nhận request
+OK - Tính ra số trước khi mã hóa
+OK - Giải mã

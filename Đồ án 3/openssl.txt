@@ -1,0 +1,27 @@
+openssl genpkey -out priv.pem -algorithm RSA -pkeyopt rsa_keygen_bits:512
+- priv.pem: file chứa khóa bí mật RSA được sinh bởi OpenSSL
+- 512: kích thước của khóa RSA
+
+openssl pkey -in priv.pem -out pub.pem -pubout
+- priv.pem: file chứa khóa bí mật RSA được sinh bởi OpenSSL
+- pub.pem: file chứa khóa công khai RSA được sinh bởi OpenSSL
+
+openssl pkeyutl -in plain.txt -out cipher.txt -inkey pub.pem -pubin -encrypt
+- plain.txt: file chứa tệp bản rõ
+- cipher.txt: file chứa bản mã sau khi mã hóa
+- pub.pem: khóa công khai
+
+openssl pkeyutl -in cipher.txt -out plain_des.txt -inkey priv.pem -decrypt
+- plain.txt: file chứa bản mã
+- cipher.txt: file chứa bản rõ sau khi giải mã
+- pub.pem: khóa bí mật
+
+openssl pkeyutl -in mess.txt -out sign.txt -inkey priv.pem -sign
+- mess.txt: file chứa tin nhắn cần ký
+- sign.txt: file chứa chữ ký
+- priv.pem: khóa bí mật
+
+openssl pkeyutl -in mess.txt -sigfile sign.txt -inkey pub.pem -pubin -verify
+- mess.txt: file chứa tin nhắn cần xác thực
+- sign_ver.txt: file chứa chữ ký cần xác thực
+- pub.pem: khóa công khai

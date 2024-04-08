@@ -1,0 +1,58 @@
+Unnamed: 0,index,site_store,b2b_b2c,channel_id,region,city_level,store_concept,trade_term,area_range,store_type,urbanization,branch_area,address_2,address_3,showroom_area,warehouse_area,start_month,start_year,end_month,end_year,note,customer_id,customer_name
+0,0,60000003,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Bình Tân,HCM,,,8,2010,,,,435043cf9,1873a3ff2799bb9354d00defb5747e7ef72718a7
+1,1,60000006,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Biên Hoà,ĐNI,,,8,2010,,,,db3c83bfa,877a281c7bc82869461295343e5ed5de8e5aa3
+2,2,60000007,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 10,HCM,,,8,2010,,,,f9bd8e994,1644c91acde29fb885776b8bee46bab054b40b3357
+3,3,60000008,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Gò Vấp,HCM,,,8,2010,,,,c6fb2b695,2d164fd1557085797b8b0e7cc79ff3885d859b161
+4,4,60000534,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Phú Nhuận,HCM,,,8,2010,,,,68be208f8,103693f29a6f456386f8038a669b21b90dea3ab
+5,5,60000535,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Tân Phú,HCM,,,8,2010,,,,08dad4c83,17c0ef24a7dba42d59144c7edeca3beaebd0654a7
+6,6,60000536,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 11,HCM,,,8,2010,,,,775df4a2f,189fbdd8cd9b41044dbc926d3a343b424211293cb
+7,7,60000537,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 3,HCM,,,8,2010,,,,acc630f2d,2488a0af54c1635b75132d1243ab774d3e207db
+8,8,60000538,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,TT hành chính kinh tế,CNMN,Q. 1,HCM,,,8,2010,,,,c8d7ed0b8,20fb60f6089705d8280d1be31160a1635a78fbeef
+9,9,60000539,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Bình Thạnh,HCM,,,8,2010,,,,1526ca049,488ce8dfa798dec8db8f00da12798b07336ff5b7
+10,10,60000540,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 6,HCM,,,8,2010,,,,62c7860e5,33d7a312c1067d869c314d711cf19b6423861572bd
+11,11,60000541,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 6,HCM,,,8,2010,,,,b9b40fac6,ac5f580270418af8317540e9a7533862900d24473
+12,12,60000542,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 9,HCM,,,8,2010,,,,2b518dfbe,f846589cbfa234aa61b412f065927afa911aac6b
+13,13,60000543,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Mỹ Tho,TGG,,,8,2010,,,,45c97fc3b,dd1d908c8ae4aab3c6085310f88284549165caaab
+14,14,60000545,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 10,HCM,,,8,2010,,,,ed6a79730,740b4c6292a804b4fb8413cd92f4812895c01059f
+15,15,60000546,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Bình Tân,HCM,,,8,2010,,,,2e74f581f,4845a9f379bf4ff062a950f30729f3a88ad7b9855
+16,16,60000547,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 3,HCM,,,8,2010,,,,48cc1c44c,29f9871b1baf6509d08f022842099661b36b9c7
+17,17,60000548,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 8,HCM,,,8,2010,,,,97c569abe,3dde0c3f56d21d643b231973caee2fd23f503b9e81
+18,18,60000549,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 12,HCM,,,8,2010,,,,e18fef5a4,e71123ff281a7ef073efb9ad1d17b49d7282c2d9
+19,19,60000551,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Bến Tre,BTE,,,8,2010,,,,f57d66d21,74ee7b3340041e32e1e9c010e86f90413ca390ad73
+20,20,60000552,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Biên Hoà,ĐNI,,,8,2010,,,,fcbc83e38,11f443d5d10834443ff05b325d411fbc8bff4a9
+21,21,60000553,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Đồng Xoài,BPC,,,8,2010,,,,9157a3d3c,75b043b6538523e1f8a382f5af8a84c0d29a3fbc3
+22,22,60000554,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Bà Rịa,VTU,,,8,2010,,,,3715883f8,50106ed490739035195dc5f6657fbcd15ff36ccb7
+23,23,60000555,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Bà Rịa,VTU,,,8,2010,,,,18d369f01,5e71f2cb1af991fdd8523587795e154808959ff90f
+24,24,60000556,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Phan Thiết,BTN,,,8,2010,,,,e58053fe5,3f829ea92c1417aaa9b46e48804823f6c3c9671fbb
+25,25,60000558,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Tân An,LAN,,,8,2010,,,,8e9e8fc6d,9becf7e0303ad503bf1655ca4838427ea8c823
+26,26,60000559,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Phú Nhuận,HCM,,,8,2010,,,,de50d4ba9,1781f7ecae252237f7c1a0080e8c94e1916496ad9
+27,27,60001167,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Tân Phú,HCM,,,10,2010,,,,153d20c07,3488ec36e30fa3990d53461fc7d8a95597e469b1
+28,28,60002010,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Thủ Dầu Một,BDG,,,3,2011,,,,aee3c6c2a,2a0d57138b81bb391797f7d85a710341961f789
+29,29,60002100,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,H. Củ Chi,HCM,,,7,2011,,,,f08b2965e,7ba2cc55aecbca6dceb9960926ab2f9772c7dfad5
+30,30,60002115,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Tây Ninh,TNH,,,9,2011,,,,89f802a1b,6f1096376b166d09fbc343305d4365781036c3283
+31,31,60002151,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Biên Hoà,ĐNI,,,11,2011,,,,d4d368a24,67c0be104b4b8a22d8f33c009ac8984b7e90ad93
+32,32,60002180,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Gò Vấp,HCM,,,2,2012,,,,d8f7b7bb9,4649034a35b65519b56d9e1e736155e6b063f475
+33,33,60002256,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Tân Phú,HCM,,,8,2012,,,,3c5068312,18928b3ff6ec2bc44cf4f9744d1125abfa63593ead
+34,34,60002271,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Thủ Dầu Một,BDG,,,9,2012,,,,b3e663496,24ec692ac8d990fd36e194132c26d6ec35de7ef1d
+35,35,60002284,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Tân Phú,HCM,,,10,2012,,,,f40c1946b,163c911353729433b937aa7d456f024b56ff5c0af
+36,36,60002304,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 10,HCM,,,11,2012,,,,4c024869c,2e0df631c01fe1c6e3713c31b595c927699f748663
+37,37,60002335,B2B,ST,KVMN,Còn lại,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nông thôn,CNMN,Tp. Dĩ An,BDG,,,3,2013,,,,f23bcd669,1bcb66a3272d3b9cbdb3f2e6303ec98e13264479
+38,38,60002360,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Thủ Đức,HCM,,,4,2013,,,,593994cfb,15ef2c32b4301d9c217f746dee3551bca433421
+39,39,60002401,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Thủ Đức,HCM,,,6,2013,,,,b96c52b9f,1500fa4d4c0ece0a08780aa230f0e778ff34fdb87
+40,40,60002460,B2B,ST,KVMN,Còn lại,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nông thôn,CNMN,Tx. Trảng Bàng,TNH,,,11,2013,,,,a9c153fdf,c0b8f4ab5cad060a4e9ac828ad247129a57669df9
+41,41,60002540,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Tân Phú,HCM,,,4,2014,,,,39a7e0cd9,cc72facf6dcfb155fc97d4ccf8f6981a495d96b5
+42,42,60002621,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Thuận An,BDG,,,7,2014,,,,3aedf8f8d,4603174b89cdfd9896bff3ec905f581dba291b71
+43,43,60002720,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Gò Vấp,HCM,,,12,2014,,,,1ee1c1332,89366d4f96b2c3e030568070e161fe8ee6f2a1b7
+44,44,60002766,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 7,HCM,,,3,2015,,,,a55feb39b,1f30b6e899270310501d5236db5fde08202828cb
+45,45,60002855,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Thủ Dầu Một,BDG,,,6,2015,,,,725245ab9,97329a987a3f7d7e3f082bb1c500d952ea1d4a43
+46,46,60002925,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Bình Thạnh,HCM,,,10,2015,,,,a97e61529,68808492c6a565ffab0849be7df6a24e9d373eb
+47,47,60002934,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 7,HCM,,,10,2015,,,,757c21094,1c62bb64405021f09f7403a1bcc4de8f02b8a966b
+48,48,60002962,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Gò Vấp,HCM,,,12,2015,,,,f3c7f96aa,f5a01279a1d0c8f3c62a7315c025500ffb80f4523
+49,49,60002963,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,H. Nhà Bè,HCM,,,12,2015,,,,c92c16f81,368631615cc9cbf99d51491c949cc687d93fb82f
+50,50,60002964,B2B,ST,KVMN,Còn lại,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nông thôn,CNMN,Tx. La Gi,BTN,,,12,2015,,,,824fb4bf7,1cbb0d6c2a2f8b802fddbd37674a91b61d5aeec7
+51,51,60002998,B2B,ST,KVMN,Còn lại,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nông thôn,CNMN,H. Bến Lức,LAN,,,3,2016,,,,d2d0c2a4c,16101696e920dfbf1d1d65c623c4ee9b24116a67
+52,52,60003007,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. Gò Vấp,HCM,,,3,2016,1.0,2020.0,,5a1647702,3f5229ae0bb2d5e8544a41b65a4a2260ea28635f1
+53,53,60003008,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 7,HCM,,,3,2016,1.0,2020.0,,9500142fd,92867d07bed51b3ec3421c50a3a1ac384d728e53d
+54,54,60003009,B2B,ST,KVMN,Cấp TW,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Q. 11,HCM,,,3,2016,1.0,2020.0,,0ec603524,eeff5ed8606ed84b1a60bc3101e86b5af3290ebcd
+55,55,60003015,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Biên Hoà,ĐNI,,,3,2016,1.0,2020.0,,90a32f631,3769935020603e8ebad7fab322d3332c59f87c5d
+56,56,60003016,B2B,ST,KVMN,Cấp 2,Cửa hàng của các siêu thị,Mua đứt bán đoạn,,Siêu thị,Nội thành,CNMN,Tp. Thuận An,BDG,,,3,2016,1.0,2020.0,,e69e17b99,aaaf09bcae74edfcb7336349f5a207664917b7849b
